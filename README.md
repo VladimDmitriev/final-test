@@ -1,2 +1,2 @@
-# final-tets
-Final Test on Progrming Languages
+# Заключительная контрольная работа к блоку 1 курса "Разработчик"
+
